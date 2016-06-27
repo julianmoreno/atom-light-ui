@@ -1,7 +1,7 @@
 {
   "name": "matizr-light-ui",
   "theme": "ui",
-  "version": "0.44.0",
+  "version": "0.45.0",
   "description": "A light UI theme for Atom",
   "repository": "https://github.com/julianmoreno/matizr-light-ui.git",
   "license": "MIT",
